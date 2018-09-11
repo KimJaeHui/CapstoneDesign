@@ -1,9 +1,0 @@
-Notepad++ 7.5.4 enhancements & bug-fixes:
-
-1.  Fix a crash bug due to disordered notifications sent to plugins.
-2.  Fix encoding broken regression.
-3.  Improve smart highlighting performance.
-4.  Auto-completion enhancement: remove unwanted symbols {} for variable names.
-5.  Add auto-completion for BaanC & CoffeeScript.
-6.  Fix localization copy regression in Installer.
-
